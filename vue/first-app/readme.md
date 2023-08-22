@@ -12,6 +12,11 @@
 
 #### 프로젝트 생성 : vue create 프로젝트 명
 
+- node_module : 프로젝트에 쓰는 라이브러리들
+- src : 소스코드 다 담는 곳
+- public : html파일, 기타 파일 보관
+- pakage.json : 라이브러리 버전, 프로젝트 설정 기록
+
 <br>
 <br>
 <br>
