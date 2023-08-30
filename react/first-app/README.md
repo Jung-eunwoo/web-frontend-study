@@ -1,4 +1,6 @@
-![image](https://github.com/Jung-eunwoo/web-frontend-study/assets/136785138/80e43ca9-fc37-4bd6-afa1-6b11f4e3c516)first app - readme
+footer layout & component
+![image](https://github.com/Jung-eunwoo/web-frontend-study/assets/136785138/8a84e2ac-ae85-4413-8195-0d0140b753f0)
+
 
 # react 클론 사이트 제작
 
