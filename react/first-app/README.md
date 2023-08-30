@@ -1,5 +1,5 @@
 footer layout & component
-![image](https://github.com/Jung-eunwoo/web-frontend-study/assets/136785138/8a84e2ac-ae85-4413-8195-0d0140b753f0)
+![image](https://github.com/Jung-eunwoo/web-frontend-study/assets/136785138/b690bdbb-a554-4e6d-a43e-a413b050a70f)
 
 
 # react 클론 사이트 제작
